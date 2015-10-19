@@ -1,4 +1,10 @@
-﻿
+﻿/*
+Created by Matthew Ho
+Created on 10-19-15
+Created for ICS3U
+Daily Task 3-12
+This program uses For Each loops to change a property of all control objects.
+*/
 
 using System;
 using System.Collections.Generic;
